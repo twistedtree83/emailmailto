@@ -1,0 +1,5 @@
+{
+  "github-actions.workflows.pinned.workflows": [
+    "emailmailto/.github/workflows/notion-script.yml"
+  ]
+}
